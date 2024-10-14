@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry)
+
 <!--
 **JChuy0/JChuy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
